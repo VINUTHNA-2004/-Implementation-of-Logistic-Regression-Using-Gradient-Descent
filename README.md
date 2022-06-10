@@ -26,7 +26,7 @@ Calculate the accuracy, confusion and classification report by importing the req
 STEP 6:
 Obtain the graph. 
 
-## Program:
+### Program:
 ```
 Program to implement the the Logistic Regression Using Gradient Descent.
 Developed by: D.R.Vinuthna
@@ -74,11 +74,11 @@ for i,j in enumerate(np.unique(y_Set)):
   plt.ylabel('Estimated Salary')
   plt.legend()
   plt.show()
-## Output:
+### Output:
 ![output](https://github.com/VINUTHNA-2004/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/blob/main/4.1.PNG?raw=true)
 ![output](https://github.com/VINUTHNA-2004/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/blob/main/4.2.PNG?raw=true)
 
 
-## Result:
+### Result:
 Thus the program to implement the the Logistic Regression Using Gradient Descent is written and verified using python programming.
 
