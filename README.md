@@ -74,6 +74,7 @@ for i,j in enumerate(np.unique(y_Set)):
   plt.ylabel('Estimated Salary')
   plt.legend()
   plt.show()
+  ```
 ### Output:
 ![output](https://github.com/VINUTHNA-2004/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/blob/main/4.1.PNG?raw=true)
 ![output](https://github.com/VINUTHNA-2004/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/blob/main/4.2.PNG?raw=true)
